@@ -1,4 +1,4 @@
-API SETUP
+## API SETUP
 
 Open a new terminal and run the following command:
 
@@ -24,8 +24,10 @@ mysql> CREATE TABLE `posters` (
   `poster` varchar(100)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+-------------------------
 
-REACT SETUP
+
+## REACT SETUP
 
 Run the following:
 
