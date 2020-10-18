@@ -1,7 +1,7 @@
 <?php
 $host = "localhost"; 
 $user = "root"; 
-$password = "EdbastI43"; 
+$password = "YOUR_PASSWORD"; 
 $dbname = "matrix"; 
 $id = '';
 
